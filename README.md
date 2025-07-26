@@ -1,12 +1,4 @@
 # Banking Portal Rest API Using Spring Boot & Spring Security
-## API Documentation
-
-- [https://github.com/abhi9720/BankingPortal-API/wiki](https://github.com/abhi9720/BankingPortal-API/wiki)
-
-## Banking Portal UI
-
-- [https://github.com/abhi9720/BankingPortal-UI](https://github.com/abhi9720/BankingPortal-UI)
-
 
 ***
 
